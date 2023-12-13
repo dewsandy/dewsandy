@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dewi Sandy Islamiati</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hands-On Backend Tech Lead at ViuiT | Passionate Software Engineer</h3>
 
 - 📫 How to reach me **dewi.sandyislamiati@gmail.com**
 
