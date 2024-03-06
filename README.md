@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ACI](https://aci.id)
 
-- 💬 Ask me about **PHP, NodeJS, Redis, PostgreSQL, Google Cloud**
+- 💬 Ask me about **PHP, GO, NodeJS, Redis, PostgreSQL, Google Cloud**
 
 - 📫 How to reach me **dewi.sandyislamiati@gmail.com**
 
