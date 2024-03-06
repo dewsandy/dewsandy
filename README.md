@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dewi Sandy Islamiati</h1>
 <h3 align="center">Hands-On Backend Tech Lead at ACI ( Former Name:ViuiT) | Passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on [ViuiT](https://viuit.id)
+- 🔭 I’m currently working on [ACI](https://aci.id)
 
 - 💬 Ask me about **PHP, NodeJS, Redis, PostgreSQL, Google Cloud**
 
