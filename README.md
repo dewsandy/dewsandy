@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **PHP, GO, NodeJS, Redis, PostgreSQL, Google Cloud**
 
-- 📫 How to reach me **dewi.sandyislamiati@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/dewisandy/](https://www.linkedin.com/in/dewisandy/)
 
 <h3 align="left">Connect with me:</h3>
